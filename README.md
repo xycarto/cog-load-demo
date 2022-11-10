@@ -10,5 +10,5 @@ The repo and site are built as demonstration of how to load a SINGLE BAND COG us
 
 - Data used on this site is from JPL and LINZ Data Service
 
-1. (LINZ) [https://basemaps.linz.govt.nz/#@-41.8899962,174.0492437,z5]
-2. (JPL) [https://podaac.jpl.nasa.gov/SeaSurfaceTemperature]
+1. [LINZ](https://basemaps.linz.govt.nz/#@-41.8899962,174.0492437,z5)
+2. [JPL](https://podaac.jpl.nasa.gov/SeaSurfaceTemperature)
