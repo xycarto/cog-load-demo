@@ -1,6 +1,4 @@
 
-var urls3 = 'https://d3cywq4ybqu7io.cloudfront.net/cogs/sst/clipped-eez-nztm-20200101090000-JPL-L4_GHRSST-SSTfnd-MUR-GLOB-v02_fill_cut_warp_cog.tif'
-
 // Pop up set
 var container = document.getElementById('popup');
 var content = document.getElementById('popup-content');
@@ -22,6 +20,8 @@ return false;
 };
 
 // Map Stuff
+var urls3 = 'https://d3cywq4ybqu7io.cloudfront.net/cogs/sst/clipped-eez-nztm-20200101090000-JPL-L4_GHRSST-SSTfnd-MUR-GLOB-v02_fill_cut_warp_cog.tif'
+
 var cogSource = new ol.source.GeoTIFF({
     normalize: false,
     sources: [
